@@ -81,7 +81,7 @@ print("RMSE = ",rmse)
 ### Values of y prediction
 ![image](https://github.com/VARSHINI22009118/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119401150/0fb49543-18a3-462b-83e8-48da46913b68)
 
-###Array values of Y test
+### Array values of Y test
 ![image](https://github.com/VARSHINI22009118/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119401150/b84929fa-8bad-4fdd-8c4c-9c4b27499f28)
 
 ### Training set graph
